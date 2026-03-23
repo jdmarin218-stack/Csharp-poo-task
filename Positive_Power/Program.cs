@@ -4,11 +4,9 @@
     class Program {
         static void Main(string[] args) {
         
-            // Ejecuta el ejercicio que desees probando cada método
             Exercise1();
         }
 
-        // 1. Positive Power
         static void Exercise1()
         {
             Console.Write("Ingresa un número: ");
